@@ -14,7 +14,7 @@ item_id というキーは 4 という値・amount というキーは 1 とい�
 ~~~
 ハッシュ/キー/値
 
-"cart_item"=>{"item_id"=>"4", "amount"=>"1"}/	
+"cart_item"=>{"item_id"=>"4", "amount"=>"1"}/
 cart_item/
 {item_id"=>"4", "amount"=>"1"}
 
